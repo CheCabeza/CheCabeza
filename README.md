@@ -1,7 +1,5 @@
 <h3 align="center">Chema Cabeza - Fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=checabeza" alt="checabeza" /></a> </p>
-
 - 🔭 I’m currently working for **Travelport**
 
 - 💬 Ask me about **React or javascript**
@@ -21,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=checabeza&show_icons=true&locale=en" alt="checabeza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=checabeza&" alt="checabeza" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=checabeza" alt="checabeza" /></a> </p>
