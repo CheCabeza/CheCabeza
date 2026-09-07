@@ -17,9 +17,34 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=checabeza&show_icons=true&locale=en&theme=transparent" height="180" alt="GitHub Stats" />
+# Chema Cabeza - Fullstack Developer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checabeza&layout=compact&langs_count=8&theme=transparent" height="180" alt="Top Languages" />
+</div>
+
+- 🔭 I'm currently working for **Travelport**
+- 💬 Ask me about **React, TypeScript, JavaScript or Node.js**
+- 📫 How to reach me **chemartinc@gmail.com**
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chemacabeza" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+</p>
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,graphql,java,git,mongodb,mysql,aws,docker" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</p>
 
 </div>
 
